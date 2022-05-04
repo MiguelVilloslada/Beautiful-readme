@@ -39,7 +39,7 @@ Code: Jupyter Notebook - Link to code folder
 ___________________
 Visualization
 
-
+![alt text](https://github.com/MiguelVilloslada/Beautiful-readme/blob/main/94357telecom%20churn.png)
 ___________________
 Key Take Aways
 1. Our model can predict a customer accepting or declining the credit card offer with an accuracy of 84%
