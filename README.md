@@ -2,7 +2,7 @@
 
 ## Building a churn predictor for a Telecom Company
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/MiguelVilloslada/Beautiful-readme/blob/main/94357telecom%20churn.png)
 
 #### Table of content
 
@@ -23,6 +23,8 @@ ___________________
 Data
 
 I used Python's data visualisation tools to explore the relationships between the variables.
+
+
 ___________________
 Process & Tools
 
