@@ -22,7 +22,7 @@ Problem: We are missing important variables in the dataset to validate our model
 ___________________
 Data: 
 
-csv data 
+csv data [here](https://github.com/MiguelVilloslada/Beautiful-readme/blob/main/customer_churn.csv)
 ___________________
 Process & Tools
 
