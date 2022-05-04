@@ -28,7 +28,7 @@ Machine Learning Model: - Logistic Regression
   - iteration 1 (X_lt): SMOTE sampling to improve the imbalance of the target
   - iteration 2 (X_lm): Tomek links removing the instances of the majority class
 
-Code: Jupyter Notebook - Link to code folder
+Code: Jupyter Notebook - ![alt text](https://github.com/MiguelVilloslada/Beautiful-readme/blob/main/LAB%20Imbalance%20data.ipynb)
 ___________________
 Visualization
 
