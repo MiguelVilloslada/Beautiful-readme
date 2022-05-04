@@ -7,7 +7,6 @@
 #### Table of content
 
 · Lab Brief
-· Data
 · Process & Tools
 · Visualization
 · Key Take Aways
@@ -19,12 +18,6 @@ We are given data from over 7000 customers and our aim is to build a churn predi
 Challenge: Use the given data set to find out if Tenure, Monthly Carges or Senior Citizen are relaible variables to predict wether a customer might leavee the company.  
 
 Problem: We are missing important varaibles in the dataset to validate our model as a good predictor 
-___________________
-Data
-
-I used Python's data visualisation tools to explore the relationships between the variables.
-
-
 ___________________
 Process & Tools
 
@@ -39,7 +32,7 @@ Code: Jupyter Notebook - Link to code folder
 ___________________
 Visualization
 
-![alt text](https://github.com/MiguelVilloslada/Beautiful-readme/blob/main/94357telecom%20churn.png)
+![alt text](https://github.com/MiguelVilloslada/Beautiful-readme/blob/main/LogisticRegression.png)
 ___________________
 Key Take Aways
 1. Our model can predict a customer accepting or declining the credit card offer with an accuracy of 84%
